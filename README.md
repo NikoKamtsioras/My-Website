@@ -1,7 +1,7 @@
 # My-Website
 Website/Blog
 
-Basic flask website made with python and flask
+Basic website made with python and flask
 
 Dependencies:
 
