@@ -25,4 +25,4 @@ def contact():
 
 
 if __name__ == '__main__':
-    webapp.run()
+    webapp.run(debug=True)
